@@ -3,7 +3,6 @@ import posts from './posts';
 import auth from './auth';
 
 // const Router = require('koa-router');
-
 // const posts = require('./posts');
 
 const api = new Router();
